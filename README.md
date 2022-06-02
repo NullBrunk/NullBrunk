@@ -47,20 +47,3 @@ int main(void) {
       <img src="hhttps://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="css" width="40" height="40"/>
    </a>
 
-</p>
-<h4 align="center">
-
-
-<p align="center">
-<div style="width: 10px;"></div>
-<div align="center">
-
-    <a href"https://github.com/NullBrunk?tab=followers">
-        <img alt="GitHub followers" 
-             src="https://img.shields.io/github/followers/0xLoky?style=social" />
-    </a>
-    <a href="https://twitter.com/NullBrunk">
-        <img alt="Twitter Follow" 
-             src="https://img.shields.io/twitter/follow/0xLoky?style=social">
-    </a>
-</p>

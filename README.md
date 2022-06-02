@@ -8,16 +8,22 @@ static const char WHOAMI[] = "NullBrunk 🏴‍";
 
 int main(void) {
 
-    char info[] = "Web Offensive security, Python3 scripting";
+    // Hacking
     
-    char *arr3[4] = { "Python3", "HTML/CSS", "JS", "C" };
+    char *languages[4] = { "Python3", "HTML/CSS", "JS", "C" };
     
-    char *tech[4] = { "Unix | GNU/Linux", "Web Pentest", "Network", "OffensiveSec" };
+    char *techs[4] = { "GNU/Linux user", "Web Pentester", "🐍 python3 scripter" };
     
     
     return 0;
 }
 ``` 
+
+
+
+[![Presta's GitHub stats](https://github-readme-stats.vercel.app/api?username=prestaa&show_icons=true&theme=dark&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+
+
 </div><br>
 <br>
 

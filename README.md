@@ -44,6 +44,6 @@ int main(void) {
       <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" alt="html5" width="40" height="40"/>
    </a>
    <a href="">
-      <img src="hhttps://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="css" width="40" height="40"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="css" width="40" height="40"/>
    </a>
 

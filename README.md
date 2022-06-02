@@ -1,17 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=0xLoky%20🏴‍☠️&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20And%20Pentesting%20Tool%20Scripting&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=NullBrunk%20🏴‍☠️&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20And%20Pentesting%20Tool%20Scripting&descAlignY=51&descAlign=62)
 <div style="width: 10px;"></div>
 <a  href="https://discord.gg/tBNG8Myd4f"><img align="right" src="https://discordapp.com/api/guilds/712028511124062259/widget.png?style=banner4"/></a>
 
-```C++
-#include <iostream>
+```C
 #include <stdio.h>
-using namespace std::Loky 🏴‍☠️;
+static const char WHOAMI[] = "NullBrunk 🏴‍";
 
-int main() {
-    char info[128] = "Software Engineer and Machine Learning";
+int main(void) {
 
-    char *langs[4] = { "html", "css", "php", "python3", "Perl", "C" };
-    char tech[5] = { "Unreal", "Unity", "OpenGL", "Vulkan", "DirectX" };
+    char info[] = "Web Offensive security, Python3 scripting";
+    
+    char *arr3[4] = { "Python3", "HTML/CSS", "JS", "C" };
+    
+    char *tech[4] = { "Unix | GNU/Linux", "Web Pentest", "Network", "OffensiveSec" };
+    
     
     return 0;
 }

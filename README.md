@@ -7,8 +7,6 @@
 static const char WHOAMI[] = "NullBrunk 🏴‍";
 
 int main(void) {
-
-    // Hacking
     
     char *languages[4] = { "Python3", "HTML/CSS", "JS", "C" };
     

@@ -6,8 +6,8 @@ static const char WHOAMI[] = "NullBrunk 🏴‍";
 
 int main(void) {
     
-    char *languages[4] = { "Python3", "HTML/CSS", "JS", "C" };
-    char *techs[4] = { "GNU/Linux user", "Web Pentesting", "🐍 python3 scripting", "Exploit developpment" };
+    char *languages[4] = { "Python3", "HTML/CSS", "JS", "C", "bash" };
+    char *techs[4] = { "Web Pentesting", "🐍 python3 scripting", "Exploit developpment" };
        
     return 0;
 }

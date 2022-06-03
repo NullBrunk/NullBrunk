@@ -9,10 +9,8 @@ static const char WHOAMI[] = "NullBrunk 🏴‍";
 int main(void) {
     
     char *languages[4] = { "Python3", "HTML/CSS", "JS", "C" };
-    
     char *techs[4] = { "GNU/Linux user", "Web Pentester", "🐍 python3 scripter" };
-    
-    
+       
     return 0;
 }
 ``` 

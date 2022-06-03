@@ -19,9 +19,21 @@ int main(void) {
 }
 ``` 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=nullbrunk&show_icons=true&hide=pr)" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=nullbrunk&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)" />
+</a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
-[![NullBrunk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nullbrunk&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
+[![NullBrunk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nullbrunk&show_icons=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nullbrunk&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 

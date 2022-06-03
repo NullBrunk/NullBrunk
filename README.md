@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=NullBrunk%20🏴‍☠️&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Web%20Pentest%20/%20Exploit%20dev&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=NullBrunk%20🏴‍☠️&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Web%20Pentest%20/%20Exploit%20dev&descAlignY=51&descAlign=62)
 <div style="width: 10px;"></div>
 
 ```c

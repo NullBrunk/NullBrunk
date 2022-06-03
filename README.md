@@ -22,7 +22,7 @@ int main(void) {
 
 
 [![NullBrunk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nullbrunk&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nullbrunk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nullbrunk&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

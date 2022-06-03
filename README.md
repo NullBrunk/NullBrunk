@@ -13,4 +13,4 @@ int main(void) {
 }
 ``` 
 
-[![NullBrunk's GitHub stats](https://github-readme-stats.vercel.app/api?username=NullBrunks&show_icons=true&theme=dark&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats) <a href="https://www.root-me.org/NullBrunk" ><img src="https://www.root-me.org/IMG/logo/siteon0.svg" width="200" height="160" ></a> 
+[![NullBrunk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nullbrunks&show_icons=true&theme=dark&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats) <a href="https://www.root-me.org/NullBrunk" ><img src="https://www.root-me.org/IMG/logo/siteon0.svg" width="200" height="160" ></a> 

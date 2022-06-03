@@ -20,8 +20,7 @@ int main(void) {
 ``` 
 
 
-<a>
- [![NullBrunk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nullbrunk&show_icons=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github-readme-stats.vercel.app/api?username=nullbrunk&show_icons=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats"
 </a>
 <a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nullbrunk&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)

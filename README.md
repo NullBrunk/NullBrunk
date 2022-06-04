@@ -7,7 +7,7 @@ static const char WHOAMI[] = "NullBrunk 🏴‍";
 int main(void) {
     
     char *languages[4] = { "Python3", "HTML/CSS", "JS", "C", "bash" };
-    char *techs[2] = { "💻 Web Pentesting", "🐍 Python3 Scripting", "☠️ Exploit Développement" };
+    char *techs[2] = { "💻 Web Pentesting", "🐍 Python3 Scripting", "☠️ Exploit Developpement" };
        
     return 0;
 }

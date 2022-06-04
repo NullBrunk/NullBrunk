@@ -28,9 +28,9 @@ int main(void) {
         <img alt="GitHub followers" 
              src="https://img.shields.io/github/followers/NullBrunk?style=social" />
     </a>
-        <a href"https://github.com/0xLoky?tab=followers">
-        <img alt="GitHub followers" 
-             src="https://img.shields.io/github/followers/NullBrunk?style=social" />
+        <a href"https://visitor-badge.glitch.me">
+        <img alt="Visitors" 
+             src="ttps://visitor-badge.glitch.me/badge?page_id=NullBrunk.visitor-badge" />
     </a>
 
     <a href="https://visitor-badge.glitch.me" >

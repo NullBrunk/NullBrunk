@@ -17,6 +17,7 @@ int main(void) {
 
 
 <p align="center">
+    
 <div style="width: 10px;"></div>
 <div align="center">
     <a href="https://paypal.me/NullBrunk?country.x=FR&locale.x=fr_FR">
@@ -28,10 +29,12 @@ int main(void) {
              src="https://img.shields.io/github/followers/NullBrunk?style=social" />
     </a>
 
-    <a href="https://visitor-badge.glitch.me">
+    <a href="https://visitor-badge.glitch.me" >
         <img alt="Visitors"
              src="https://visitor-badge.glitch.me/badge?page_id=NullBrunk.visitor-badge" />
-    </a> </p>
+    </a> 
+    
+ </p>
 
 
 

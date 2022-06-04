@@ -25,6 +25,26 @@ int main(void) {
 
 </a>
 
+<p align="center">
+<div style="width: 10px;"></div>
+<div align="center">
+    <a href="https://www.paypal.com/donate?hosted_button_id=NKQEXWK3RQDPQ&source=url">
+        <img alt="Paypal donate"
+             src="https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square">
+    </a>
+    <a href"https://github.com/0xLoky?tab=followers">
+        <img alt="GitHub followers" 
+             src="https://img.shields.io/github/followers/0xLoky?style=social" />
+    </a>
+    <a href="https://twitter.com/NullTrunk">
+        <img alt="Twitter Follow" 
+             src="https://img.shields.io/twitter/follow/NullTrunk?style=social">
+    </a>
+    <a href="https://visitor-badge.glitch.me">
+        <img alt="Visitors"
+             src="https://visitor-badge.glitch.me/badge?page_id=NullTrunk.visitor-badge" />
+    </a> </p>
+
 
 
 

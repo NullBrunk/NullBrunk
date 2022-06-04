@@ -32,12 +32,7 @@ int main(void) {
         <img alt="Visitors" 
              src="https://visitor-badge.glitch.me/badge?page_id=NullBrunk.visitor-badge" />
     </a>
-
-    <a href="https://visitor-badge.glitch.me" >
-        <img alt="Visitors"
-             src="https://visitor-badge.glitch.me/badge?page_id=NullBrunk.visitor-badge" />
-    </a> 
-    
+</a>
  </p>
 
 

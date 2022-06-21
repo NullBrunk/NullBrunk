@@ -3,7 +3,7 @@
 ```c
 #include <stdio.h>
 static const char WHOAMI[] = "NullBrunk 🏴‍";
-
+static const char CURRENT_CONFIG[] = "Fedora GNOME";
 int main(void) {
     
     char *languages[5] = { "Python3", "HTML/CSS", "JS", "C", "bash" };

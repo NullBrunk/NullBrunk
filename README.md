@@ -2,13 +2,15 @@
 
 ```c
 #include <stdio.h>
-static const char WHOAMI[] = "NullBrunk 🏴‍";
-static const char CURRENT_CONFIG[] = "Fedora GNOME";
-int main(void) {
-    
+
+char WHOAMI[] = "NullBrunk 🏴‍";
+char CURRENT_CONFIG[] = "Fedora GNOME";
+
+int main(void) {    
+
     char *languages[5] = { "Python3", "HTML/CSS", "JS", "C", "bash" };
     char *techs[3] = { "💻 Web Pentesting", "🐍 Python3 Scripting", "☠️ Exploit Developpement" };
-       
+    
     return 0;
 }
 ``` 

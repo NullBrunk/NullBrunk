@@ -8,8 +8,8 @@ char CONFIG[] = "Fedora GNOME";
 
 int main(void) {    
 
-    char *languages[5] = { "Python3", "HTML/CSS", "PHP", "C", "Bash" };
-    char *techs[3] = { "💻 SysAdmin", "🐍 Scripting", "☠️ Web Pentest" };
+    char *languages[4] = { "Python3", "PHP", "Bash", "C" };
+    char *techs[3] = { "💻 SysAdmin", "☠️ Web Pentest" , "🐍 Developpment"};
     
     return 0;
 }

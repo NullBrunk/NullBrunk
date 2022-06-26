@@ -4,7 +4,7 @@
 #include <stdio.h>
 
 char WHOAMI[] = "NullBrunk 🏴‍";
-char CONFIG[] = "Fedora GNOME";
+char CONFIG[] = "Fedora XFCE4";
 
 int main(void) {    
 

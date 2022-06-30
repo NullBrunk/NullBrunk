@@ -12,9 +12,11 @@ class NullBrunk:
             print(f"{i+1}: {self.domain[i]}")
 
 NullBrunk("Cybersecurity Enthusiast", ["WebPentest", "Networking", "SysAdmin"]).show()
-
-
 ``` 
+
+rootme = "https://www.root-me.org/NullBrunk"
+thm = "https://tryhackme.com/p/NullBrunk"
+
 
 [![NullBrunk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nullbrunk&show_icons=true&theme=dark&hide=prs,commits)](https://github.com/anuraghazra/github-readme-stats) <a href="https://www.root-me.org/NullBrunk" ><img src="https://www.root-me.org/IMG/logo/siteon0.svg" width="150" height="160" target="_blank"></a> <a href="https://tryhackme.com/p/NullBrunk" ><img src="https://tryhackme.com/img/favicon.png" width="130" height="140" target="_blank"></a>
 

@@ -1,14 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=NullBrunk%20🏴‍☠️&fontSize=60&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
 
-```c
-#include <stdio.h>
-
-int main(void) {    
-
-    char *languages[4] = { "Python3", "PHP", "Bash", "C" };
-    char *techs[3] = { "💻 SysAdmin", "☠️ Web Pentest" , "🐍 Developpment"};
+```python
+class NullBrunk:
+    def __init__(self, whoami, domain):
+        self.whoami = whoami
+        self.domain = domain
     
-    return 0;
+    def show(self):
+        print(f"I'm a {self.whoami} \n\nCurrently interested in :")
+        for i in range(len(self.domain)):
+            print(f"{i+1}: {self.domain[i]}")
+
+NullBrunk("Cybersec Enthusiast", ["WebPentest", "Networking", "SysAdmin"]).show()
+
 }
 ``` 
 

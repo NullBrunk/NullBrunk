@@ -3,9 +3,6 @@
 ```c
 #include <stdio.h>
 
-char WHOAMI[] = "NullBrunk 🏴‍";
-char CONFIG[] = "Fedora XFCE4";
-
 int main(void) {    
 
     char *languages[4] = { "Python3", "PHP", "Bash", "C" };
@@ -19,23 +16,7 @@ int main(void) {
 
 ---
 
-<p align="center">
     
-<div style="width: 10px;"></div>
-<div align="center">
-    <a href="https://paypal.me/NullBrunk?country.x=FR&locale.x=fr_FR">
-        <img alt="Paypal donate"
-             src="https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square">
-    </a>
-    <a href"https://github.com/0xLoky?tab=followers">
-        <img alt="GitHub followers" 
-             src="https://img.shields.io/github/followers/NullBrunk?style=social" />
-    </a>
-        <a href"https://visitor-badge.glitch.me">
-        <img alt="Visitors" 
-             src="https://visitor-badge.glitch.me/badge?page_id=NullBrunk.visitor-badge" />
-    </a>
-</a>
  </p>
  
 <p align="center">
@@ -44,7 +25,7 @@ int main(void) {
 <img src="https://camo.githubusercontent.com/043cf178670996a77ee676c08ffebc44661909c10e09c07a12a287cab3f8e548/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d50485026636f6c6f723d373737424234266c6f676f3d504850266c6f676f436f6c6f723d464646464646266c6162656c3d"/>
 <img src="https://camo.githubusercontent.com/137ec190ec7cf120cd4184f04474d452f6d475575dfc7fdf79fc1ed51022857c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c696e757826636f6c6f723d323232323232266c6f676f3d4c696e7578266c6f676f436f6c6f723d464343363234266c6162656c3d"/>
 <img src="https://camo.githubusercontent.com/7071d9977959a7578fe70458643130735c17ac05969f0e1cdce29b6476dd171f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4665646f726126636f6c6f723d353141324441266c6f676f3d4665646f7261266c6f676f436f6c6f723d464646464646266c6162656c3d">
-
+<img src="https://camo.githubusercontent.com/10cf8cb22de6fa90024004c71dc23860f48ea76459787dd3f48aeae9c7fd24e7/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5846434526636f6c6f723d323238344632266c6f676f3d58464345266c6f676f436f6c6f723d464646464646266c6162656c3d"/>
     
 </p>
 

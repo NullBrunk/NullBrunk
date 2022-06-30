@@ -13,7 +13,7 @@ class NullBrunk:
 
 NullBrunk("Cybersecurity Enthusiast", ["WebPentest", "Networking", "SysAdmin"]).show()
 ``` 
----
+
 
 [![NullBrunk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nullbrunk&show_icons=true&theme=dark&hide=prs,commits)](https://github.com/anuraghazra/github-readme-stats) 
 

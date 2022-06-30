@@ -7,11 +7,11 @@ class NullBrunk:
         self.domain = domain
     
     def show(self):
-        print(f"I'm a {self.whoami} \n\nCurrently interested in :")
+        print(f"I'm a {self.whoami.lower()} \n\nCurrently interested in :")
         for i in range(len(self.domain)):
             print(f"{i+1}: {self.domain[i]}")
 
-NullBrunk("Cybersec Enthusiast", ["WebPentest", "Networking", "SysAdmin"]).show()
+NullBrunk("Cybersecurity Enthusiast", ["WebPentest", "Networking", "SysAdmin"]).show()
 
 
 ``` 

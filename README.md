@@ -4,12 +4,12 @@
 class NullBrunk:
     def __init__(self, whoami, domain):
         self.whoami = whoami
-        self.domain = domain
+        self.passion = passion
     
     def show(self):
         print(f"I'm a {self.whoami.lower()} \n\nCurrently interested in :")
-        for i in range(len(self.domain)):
-            print(f"{i+1}: {self.domain[i]}")
+        for i in range(len(self.passion)):
+            print(f"{i+1}: {self.passion[i]}")
 
 NullBrunk("Cybersecurity Enthusiast", ["WebPentest", "Networking", "SysAdmin"]).show()
 ``` 

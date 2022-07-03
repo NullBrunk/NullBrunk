@@ -11,7 +11,6 @@ class NullBrunk:
     def show(self):
     
         print(f"I'm a {self.whoami} currently interested in :")
-        
         for i in range(len(self.passion)):
             print(f"- {self.passion[i]}")
 

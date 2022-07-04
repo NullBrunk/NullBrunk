@@ -3,7 +3,7 @@
 ```python
 class NullBrunk:
 
-    def __init__(self, whoami, domain):
+    def __init__(self, whoami, passion):
         self.whoami = whoami
         self.passion = passion
     

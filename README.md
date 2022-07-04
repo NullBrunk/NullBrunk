@@ -13,7 +13,7 @@ class NullBrunk:
         for i in range(len(self.passion)):
             print(f"- {self.passion[i]}")
 
-NullBrunk("Cybersecurity Enthusiast", ["WebPentest", "Développment", "SysAdmin"]).show()
+NullBrunk("Cybersecurity Enthusiast", ["WebPentest", "Networking", "SysAdmin"]).show()
 ``` 
 
 

@@ -9,7 +9,7 @@ class NullBrunk:
     
     def show(self):
         
-        print(f"I'm a {self.whoami} currently interested in :")
+        print(f"I'm a {self.whoami} currently interested in : \r\n")
         for i in range(len(self.passion)):
             print(f"- {self.passion[i]}")
 

@@ -7,13 +7,15 @@ class NullBrunk:
         self.whoami = whoami
         self.passion = passion
     
-    def show(self):
-        
-        print(f"I'm a {self.whoami} currently interested in : \r\n")
+    def __str__(self):
+     
+        t = f"I'm a {self.whoami} currently interested in : \r\n\r\n"
         for i in range(len(self.passion)):
-            print(f"- {self.passion[i]}")
+            t += f"- {self.passion[i]}\r\n"
+        return t
 
-NullBrunk("Cybersecurity Enthusiast", ["WebPentest", "Networking", "SysAdmin"]).show()
+brunk = NullBrunk("Cybersecurity Enthusiast", ["WebPentest", "Networking", "SysAdmin"])
+print(brunk)
 ``` 
 
 

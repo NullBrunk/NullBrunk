@@ -1,16 +1,26 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Anas&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Web%20Development%20%2F%20DevOps&descAlignY=51&descAlign=62)
 
-<!--
-**NullBrunk/NullBrunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```php
+class Profile {
 
-Here are some ideas to get you started:
+    private $info = "Web Developper, Dev Ops";
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    private $langs = [
+        "HTML/CSS", "JavaScript", "PHP", "Python3", "Bash", "SQL" 
+    ];
+
+
+    private $frameworks = [
+        "Laravel", "Bootstrap", "Flask"
+    ];
+
+    public function __construct($info,  $langs, $techs) {
+        $this -> frameworks = $frameworks;
+        $this -> langs = $langs;
+        $this -> info = $info;
+    }
+
+}
+```
+
+

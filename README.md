@@ -23,4 +23,4 @@ class Profile {
 }
 ```
 
-![](https://github-profile-trophy.vercel.app/?username=NullBrunk&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=NullBrunk&theme=dracula&no-frame=false&no-bg=false)

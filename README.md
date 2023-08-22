@@ -5,18 +5,19 @@ class Profile {
 
     private $info = "Web Developper, SysAdmin";
 
-    private $langs = [
-        "HTML/CSS", "JavaScript", "PHP", "Python3", "Bash", "SQL", "Redis"
-    ];
+    private $technos = [
+        # Frontend
+        "HTML/CSS", "JavaScript", "Bootstrap",
 
+        # Backend
+        "Laravel", "Livewire", "PHP", "Python3", "Bash",
 
-    private $frameworks = [
-        "Laravel", "Bootstrap", "Flask"
+        # Database
+        "SQL", "Redis"
     ];
 
     public function __construct($info,  $langs, $techs) {
-        $this -> frameworks = $frameworks;
-        $this -> langs = $langs;
+        $this -> technos = $technos;
         $this -> info = $info;
     }
 

@@ -6,14 +6,14 @@ class Profile {
     private $info = "Web Developper, SysAdmin";
 
     private $technos = [
-        # Frontend
-        "HTML/CSS", "JavaScript", "Bootstrap",
+        # Prog langages
+        "HTML/CSS", "JavaScript", "PHP", "Python3", "Bash",
 
-        # Backend
-        "Laravel", "Livewire", "PHP", "Python3", "Bash",
+        # Others (Framework, libraries)
+        "Laravel", "Livewire",
 
         # Database
-        "SQL", "Redis"
+        "SQL", "Redis",
     ];
 
     public function __construct($info,  $langs, $techs) {

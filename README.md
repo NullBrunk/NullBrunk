@@ -7,10 +7,10 @@ class Profile {
 
     private $technos = [
         # Prog langages
-        "HTML/CSS", "JavaScript", "PHP", "Python3", "Bash",
+        "HTML/CSS", "JavaScript", "PHP", "C++", "Python3", "Bash",
 
         # Others (Framework, libraries)
-        "Laravel", "Livewire",
+        "Laravel", "Livewire", "Arduino",
 
         # Database
         "SQL", "Redis",

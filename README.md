@@ -3,7 +3,7 @@
 ```php
 class Profile {
 
-    private $info = "Web Developper, SysAdmin";
+    private $info = "Web Developer, SysAdmin";
 
     private $technos = [
         # Prog langages

@@ -5,7 +5,6 @@
     "info": "Web Developer, SysAdmin",
 
     "technos": {
-
         "Languages": [
             "HTML/CSS", "PHP", "JS", "Python3", "Bash", "C++"
         ],
@@ -21,7 +20,6 @@
         "Databases": [
             "MySQL", "MariaDB", "Redis"
         ]
-
     }
 }
 ```

@@ -16,9 +16,8 @@ class Profile {
         "SQL", "Redis",
     ];
 
-    public function __construct($info,  $langs, $techs) {
-        $this -> technos = $technos;
-        $this -> info = $info;
+    public function __construct() {
+        $this -> info = "Welcome !";
     }
 
 }

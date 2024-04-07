@@ -1,7 +1,5 @@
 ```json
 {
-    "info": "Web Developer, SysAdmin enthusiast",
-
     "technos": {
         "Languages": [
             "HTML/CSS", "PHP", "JS", "Python3", "Bash", "C++"

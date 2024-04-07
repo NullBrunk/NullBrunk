@@ -1,6 +1,6 @@
 ```json
 {
-    "info": "Web Developer, SysAdmin",
+    "info": "Web Developer, SysAdmin enthusiast",
 
     "technos": {
         "Languages": [

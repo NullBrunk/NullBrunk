@@ -17,5 +17,7 @@
             "MySQL", "MariaDB", "Redis"
         ]
     }
+
+    "tools": ["docker", "git", "bash"]
 }
 ```

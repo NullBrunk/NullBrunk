@@ -18,6 +18,6 @@
         ]
     }
 
-    "tools": ["docker", "git", "bash"]
+    "tools": ["composer", "npm", "docker", "git", "bash"]
 }
 ```

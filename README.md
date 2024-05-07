@@ -2,21 +2,22 @@
 {
     "technos": {
         "Languages": [
-            "HTML/CSS", "PHP", "JS", "Python3", "Bash", "C++"
+            "HTML/CSS", "PHP", "JS", "Python3", "Bash"
         ],
 
         "Frameworks": [ 
-            "Laravel", "Livewire", "Arduino"
+            "Laravel", "Livewire"
         ],
 
-        "JS Packages, libraries": [
-            "Pusher", "Swiper", "HTMX", "Axios HTTP", "Chart.js", "AOS"
-        ],
+        "Packages, libraries": {
+            "Frontend": [ "Tailwind", "Bootstrap", "Swiper", "Chart.JS", "AOS" ],
+            "Backend": [ "Pusher", "Swiper", "HTMX", "Axios HTTP" ]
+        },
 
         "Databases": [
-            "MySQL", "MariaDB", "Redis"
-        ]
-    }
+            "MySQL", "MariaDB", "SQLite", "Redis"
+        ],
+    },
 
     "tools": ["composer", "npm", "docker", "git", "bash"]
 }

@@ -11,7 +11,7 @@
 
         "Packages, libraries": {
             "Frontend": [ "Tailwind", "Bootstrap", "Swiper", "Chart.JS", "AOS" ],
-            "Backend": [ "Pusher", "Swiper", "HTMX", "Axios HTTP" ]
+            "Backend": [ "Pusher", "HTMX", "Axios HTTP" ]
         },
 
         "Databases": [

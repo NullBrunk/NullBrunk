@@ -2,7 +2,7 @@
 {
     "technos": {
         "Languages": [
-            "HTML/CSS", "PHP", "JS", "Python3", "Bash"
+            "HTML/CSS", "PHP", "JavaScript", "Python3", "Java", "Bash"
         ],
 
         "Frameworks": [ 

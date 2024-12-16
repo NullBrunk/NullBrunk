@@ -6,7 +6,7 @@
         ],
 
         "Frameworks": [ 
-            "Laravel", "Livewire", "React"
+            "Laravel", "Livewire", "React", "Android Studio"
         ],
 
         "Packages, libraries": {

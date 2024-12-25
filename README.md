@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Anas&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Pentester%2C%20Developer&descAlignY=51&descAlign=62)
 
-I am a young student currently pursuing a bachelor's in networking, passionate about offensive cybersecurity and development.
+I am a young student currently pursuing a bachelor's in networking, passionate about dev and offensive cybersecurity. I enjoy participating in CTFs during my free time. I've been doing them for five years, and as a result, I'm ranked quite well on <a href="https://www.root-me.org/NullBrunk?q=%2FNullbrunk">Root-Me</a> and <a href="https://tryhackme.com/r/p/NullBrunk">TryHackMe</a>e.
 
 ```json
 {
     "Technologies": [ "Laravel", "React", "PHP", "Python3", "Java", "Bash", "HTML/CSS/JS" ],
     "Databases": [ "MySQL", "SQLite", "Redis" ],
-    "Tools": ["docker", "jenkins", "git"]
+    "Tools": ["docker", "jenkins", "git"],
 }
 ```
 

@@ -4,9 +4,9 @@ I am a young student currently pursuing a bachelor's in networking, passionate a
 
 ```json
 {
-    "Technologies": [ "HTML/CSS", "Laravel", "PHP", "JavaScript", "React", "Python3", "Java", "Bash" ],
-    "Databases": [ "MySQL", "MariaDB", "SQLite", "Redis" ],
-    "tools": ["docker", "jenkins", "git"]
+    "Technologies": [ "Laravel", "React", "PHP", "Python3", "Java", "Bash", "HTML/CSS/JS" ],
+    "Databases": [ "MySQL", "SQLite", "Redis" ],
+    "Tools": ["docker", "jenkins", "git"]
 }
 ```
 

@@ -26,4 +26,4 @@ I am a young student currently pursuing a bachelor's in networking, passionate a
     </ul>
 </details>
 
-![github-user-contribution](https://github.com/user-attachments/assets/5154ecd3-dfc4-4dca-8da8-1ad25be97a6b)
+![github-user-contribution](https://github.com/user-attachments/assets/bb1382f8-3c82-4b2b-bd49-c06d6ba16797)

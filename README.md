@@ -10,7 +10,7 @@ I am a young student currently pursuing a bachelor's in networking, passionate a
 }
 ```
 
-<details open>
+<details>
     <summary><h3>My hacking tools</h3></summary>
     <ul>
         <li><a href="https://www.github.com/NullBrunk/https://github.com/NullBrunk/xsserve">xsserve </a>: Simplify XSS exploitation</li>

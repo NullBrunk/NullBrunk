@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Anas&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Pentester%2C%20Developer&descAlignY=51&descAlign=62)
 
 
-I am a young student currently pursuing a bachelor's in networking, passionate about dev and offensive cybersecurity. I enjoy participating in CTFs during my free time (mostly on <a href="https://ctftime.org/user/157452">CTFTime</a> where I lead the <a href="https://ctftime.org/team/368433">fish3r CTF team</a> and <a href="https://www.root-me.org/NullBrunk?q=%2FNullbrunk">Root-Me</a> where I'm ranked top 1500.
+I am a student currently pursuing a bachelor's in networking, passionate about dev and offensive cybersecurity. I enjoy participating in CTFs during my free time (mostly on <a href="https://ctftime.org/user/157452">CTFTime</a> where I lead the <a href="https://ctftime.org/team/368433">fish3r CTF team</a> and <a href="https://www.root-me.org/NullBrunk?q=%2FNullbrunk">Root-Me</a> where I'm ranked top 1500.
 
 ```json
 {

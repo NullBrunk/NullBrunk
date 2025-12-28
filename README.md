@@ -5,9 +5,10 @@ I am a student currently pursuing a bachelor's in networking & cybersecurity, pa
 
 ```json
 {
-    "Technologies": [ "Laravel", "PHP", "Python", "HTML/CSS/JS", "React" ],
+    "Technologies": [ "Python", "PHP", "Javascript" ],
+    "Frameworks": [ "Laravel", "Livewire", "React" ]
     "Databases": [ "MySQL", "SQLite", "Redis" ],
-    "Tools": ["Ansible", "docker", "jenkins", "kubernetes", "git", "bash"],
+    "Tools": [ "Ansible", "Docker",  "Git", "Bash" ],
 }
 ```
 

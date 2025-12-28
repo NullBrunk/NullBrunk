@@ -15,7 +15,7 @@ I am a student currently pursuing a bachelor's in networking & cybersecurity, pa
 <details open>
     <summary><h3>My hacking tools</h3></summary>
     <ul>
-        <li><a href="https://www.github.com/NullBrunk/https://github.com/NullBrunk/xsserve">xsserve </a>: Simplify XSS exploitation</li>
+        <li><a href="https://github.com/NullBrunk/xsserve">xsserve </a>: Simplify XSS exploitation</li>
         <li><a href="https://www.github.com/NullBrunk/wpsh">wpsh</a>: WordPress reverse shell exploit script</li>
         <li><a href="https://www.github.com/NullBrunk/arpspoofer">arpspoofer</a>: ARP Cache Poisoning tool</li>
         <li><a href="https://www.github.com/NullBrunk/CVE-2011-2523 ">CVE-2011-2523 </a>: VsFTPd 2.3.4 Backdoor Command Execution tool</li>

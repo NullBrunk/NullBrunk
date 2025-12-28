@@ -5,9 +5,9 @@ I am a student currently pursuing a bachelor's in networking, passionate about d
 
 ```json
 {
-    "Technologies": [ "Laravel", "React", "PHP", "Python3", "Java", "HTML/CSS/JS" ],
+    "Technologies": [ "Laravel", "PHP", "Python", "HTML/CSS/JS", "React" ],
     "Databases": [ "MySQL", "SQLite", "Redis" ],
-    "Tools": ["docker", "jenkins", "kubernetes", "git", "bash"],
+    "Tools": ["Ansible", "docker", "jenkins", "kubernetes", "git", "bash"],
 }
 ```
 

@@ -1,29 +1,26 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Anas&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Pentester%2C%20Developer&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Anas&fontSize=60&animation=fadeIn&fontAlignY=38&desc=DevOps%20%C2%B7%20Cloud%20%C2%B7%20SRE&descAlignY=51&descAlign=62)
 
-
-I am a student currently pursuing a bachelor's in networking & cybersecurity, passionate about dev and offensive cybersecurity. I enjoy participating in CTFs during my free time (mostly on <a href="https://ctftime.org/user/157452">CTFTime</a> where I lead the <a href="https://ctftime.org/team/368433">fish3r CTF team</a> and <a href="https://www.root-me.org/NullBrunk?q=%2FNullbrunk">Root-Me</a> where I'm ranked top 1000.
+I'm a networking & cloud engineering student (BUT Réseaux & Télécom), focused on building and automating infrastructure — from AWS networking and Kubernetes to CI/CD pipelines with Jenkins and Ansible. Cisco-certified (CCNA) with a security background from CTF competitions (I lead the <a href="https://ctftime.org/team/368433">fish3r CTF team</a> on <a href="https://ctftime.org/user/157452">CTFTime</a> and I'm ranked top 1000 on <a href="https://www.root-me.org/NullBrunk?q=%2FNullbrunk">Root-Me</a>), which keeps me thinking about infra from a security-first angle.
 
 ```json
 {
-    "Technologies": [ "Python", "PHP", "Javascript" ],
-    "Frameworks": [ "Laravel", "Livewire", "React" ]
-    "Databases": [ "MySQL", "SQLite", "Redis" ],
-    "Tools": [ "Ansible", "Docker",  "Git", "Bash" ],
+    "Cloud & Infra": [ "AWS", "Docker", "Kubernetes", "Proxmox", "ESXi" ],
+    "CI/CD & Automation": [ "Jenkins", "Ansible", "SonarQube", "Nginx" ],
+    "Languages": [ "Python", "Bash", "PHP", "Javascript" ],
+    "Databases": [ "MySQL", "SQLite", "Redis" ]
 }
 ```
 
 <details open>
-    <summary><h3>My hacking tools</h3></summary>
+    <summary><h3>Infrastructure & automation</h3></summary>
     <ul>
-        <li><a href="https://github.com/NullBrunk/xsserve">xsserve </a>: Simplify XSS exploitation</li>
-        <li><a href="https://www.github.com/NullBrunk/wpsh">wpsh</a>: WordPress reverse shell exploit script</li>
-        <li><a href="https://www.github.com/NullBrunk/arpspoofer">arpspoofer</a>: ARP Cache Poisoning tool</li>
-        <li><a href="https://www.github.com/NullBrunk/CVE-2011-2523 ">CVE-2011-2523 </a>: VsFTPd 2.3.4 Backdoor Command Execution tool</li>
+        <li><a href="https://github.com/NullBrunk/Jenkins">Jenkins</a>: Reusable Jenkinsfiles — build, test, SonarQube/Trivy scan, deploy to EC2 or Kubernetes</li>
+        <li><a href="https://github.com/NullBrunk/cisco-tui">cisco-tui</a>: TUI tool to automate Cisco device configuration (IP addressing, OSPF routing)</li>
+        <li><a href="https://github.com/NullBrunk/FTPy">FTPy</a>: FTP client written in Python3, protocol implemented from scratch over raw sockets</li>
     </ul>
-    <summary><h3>Utils</h3></summary>
+    <summary><h3>Other projects</h3></summary>
     <ul>
-        <li><a href="https://www.github.com/NullBrunk/FTPy ">FTPy </a>:  FTP client written in Python3 </li>
-        <li><a href="https://www.github.com/NullBrunk/arpspoofer">pdf2img</a>: Extract all images from a PDF file </li>
+        <li><a href="https://github.com/NullBrunk/CyberShop">CyberShop</a>: E-commerce platform (Laravel, Livewire, Stripe), containerized with Docker</li>
     </ul>
 </details>
 

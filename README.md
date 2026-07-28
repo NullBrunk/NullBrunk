@@ -24,4 +24,4 @@ I'm a networking & cloud engineering student (BUT Réseaux & Télécom), focused
     </ul>
 </details>
 
-![github-user-contribution](https://github.com/user-attachments/assets/77bc82e7-0411-466f-b8ea-7d2cb4c138b0)
+![github-user-contribution](https://github.com/user-attachments/assets/1edc4495-2438-4328-aca9-4d6020d79f7c)

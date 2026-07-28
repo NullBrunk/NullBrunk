@@ -18,7 +18,7 @@ I'm a networking & cloud engineering student (BUT Réseaux & Télécom), focused
         <li><a href="https://github.com/NullBrunk/cisco-tui">cisco-tui</a>: TUI tool to automate Cisco device configuration (IP addressing, OSPF routing)</li>
         <li><a href="https://github.com/NullBrunk/FTPy">FTPy</a>: FTP client written in Python3, protocol implemented from scratch over raw sockets</li>
     </ul>
-    <summary><h3>Other projects</h3></summary>
+    <h3>Other projects</h3>
     <ul>
         <li><a href="https://github.com/NullBrunk/CyberShop">CyberShop</a>: E-commerce platform (Laravel, Livewire, Stripe), containerized with Docker</li>
     </ul>

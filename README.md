@@ -11,13 +11,13 @@ I'm a networking & cloud engineering student (BUT Réseaux & Télécom), focused
 }
 ```
 
-<summary><h4>Infrastructure & automation</h3></summary>
+<h4>Infrastructure & automation</h4>
 <ul>
     <li><a href="https://github.com/NullBrunk/Jenkins">Jenkins</a>: Reusable Jenkinsfiles — build, test, SonarQube/Trivy scan, deploy to EC2 or Kubernetes</li>
     <li><a href="https://github.com/NullBrunk/cisco-tui">cisco-tui</a>: TUI tool to automate Cisco device configuration (IP addressing, OSPF routing)</li>
     <li><a href="https://github.com/NullBrunk/FTPy">FTPy</a>: FTP client written in Python3, protocol implemented from scratch over raw sockets</li>
 </ul>
-<h4>Other projects</h3>
+<h4>Other projects</h43>
 <ul>
     <li><a href="https://github.com/NullBrunk/CyberShop">CyberShop</a>: E-commerce platform (Laravel, Livewire, Stripe), containerized with Docker</li>
 </ul>

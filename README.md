@@ -3,11 +3,10 @@
 
 ```json
 {
-    "Cloud & Infra": [ "AWS", "Docker", "Kubernetes", "Proxmox", "ESXi" ],
-    "CI/CD & Automation": [ "Jenkins", "Ansible", "SonarQube" ],
-    "Networking": ["Cisco IOS", "Free RADIUS", "PfSense", "Fortinet" ],
-    "Languages": [ "Python", "Bash", "PHP", "Javascript" ],
-    "Databases": [ "MySQL", "SQLite", "Redis" ]
+    "Cloud & Infra": [ "AWS (EC2, VPC, Route 53)", "Docker", "Kubernetes", "Proxmox", "ESXi" ],
+    "CI/CD & Automation": [ "Jenkins", "Ansible", "SonarQube", "Git", "Python", "Bash"],
+    "Security & Networking": ["AWS IAM", "Fortinet", "PfSense" ],
+    "Databases & Monitoring": [ "AWS Cloudwatch", "ELK Stack", "Postgresql", "Redis" ]
 }
 ```
 

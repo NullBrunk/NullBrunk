@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Anas&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Junior%20DevSecOps&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Anas&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Junior%20devOps&descAlignY=51&descAlign=62)
 
 
 ```json
